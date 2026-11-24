@@ -1,0 +1,8 @@
+# Code::Blocks - ficheiros gerados automaticamente
+*.o
+*.obj
+*.exe
+*.depend
+*.layout
+bin/
+obj/
